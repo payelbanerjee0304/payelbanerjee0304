@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @payelbanerjee
 - 👀 I’m interested in coding
 - 🌱 I’m currently a backend developer
-- 💞️ I’m looking to collaborate in projects based on custom php, Codeigniter & laravel
+- 💞️ I’m looking to collaborate in projects based on custom PHP, Codeigniter & Laravel
 - 📫 Drop an email to my mail id @payelbanerjee9319@gmail.com
 
 <!---
