@@ -9,13 +9,19 @@
   src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966"
 />
 
+- 🌱 PHP Developer extraordinaire.
+
+- 📄 Crafting digital experiences with coding wizardry.
+
+- 👨‍💻 Mastering the realms of eCommerce, Coupon Magic, Payment Gateway Integration, Game Development, and Diverse web ventures.
+  
 - 🔭 I’m currently working on [Modzi](Modzi.in)
 
 - 💬 Ask me about **PHP based Project Collaboration**
 
 - 📫 How to reach me **payelbanerjee9319@gmail.com**
 
-- 📄 Know about my experiences [drive](drive)
+- 🤝 Know more about me [drive](drive)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
