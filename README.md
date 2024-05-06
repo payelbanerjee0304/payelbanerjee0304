@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payelbanerjee0304&show_icons=true&locale=en" alt="payelbanerjee0304" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&" alt="payelbanerjee0304" /></p>
-<h3>:snake:  My Contributions :snake:</h3>
+<h3>My Contributions</h3>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
