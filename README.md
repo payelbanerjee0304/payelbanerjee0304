@@ -13,7 +13,7 @@
 
 - 📄 Crafting digital experiences with coding wizardry.
 
-- 👨‍💻 Mastering the realms of eCommerce, Coupon Magic, Payment Gateway Integration, Game Development, and Diverse web ventures.
+- 👨‍💻 Mastering the realms of eCommerce, Coupon Magic, Business and Service Site Solutions, School Management Systems, Payment Gateway Integration, Game Development, and Diverse Web Ventures.
   
 - 🔭 I’m currently working on [Modzi](Modzi.in)
 
