@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **payelbanerjee9319@gmail.com**
 
-- 🤝 Know more about me [drive](drive)
+- 🤝 Know more about me <a href="https://drive.google.com/file/d/16N8L_ac5Dn2PpWhgNSyNgtjVFxZvisru/view?usp=sharing">Resume</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
