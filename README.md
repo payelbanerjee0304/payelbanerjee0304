@@ -89,11 +89,22 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payelbanerjee0304&show_icons=true&locale=en&layout=compact" alt="payelbanerjee0304"  width="400" height="400"  /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=payelbanerjee0304&show_icons=true&locale=en" alt="payelbanerjee0304"   width="400" height="400"   /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&" alt="payelbanerjee0304"   width="700" height="400"   /></p>
+
+## 🔥 My Github Streak
+
+<p align="center">
+    <img title="My Github Streak Check" alt="payelbanerje's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
+</p>
+   
+ ## 📊 My Github Stats
+
+<p align="center">
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=payelbanerjee0304&theme=dark&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=payelbanerjee0304&show_icons=true&locale=en&layout=compact&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0" />
+</p>
+
 <h3>My Contributions</h3>
 <picture>
   <source
