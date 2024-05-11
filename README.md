@@ -20,7 +20,6 @@
 -  💬 Delve into the realm of PHP project collaboration with me!
   <br>
 
--  📄 Enchanting the Digital World with Coding Magic.
 -   👨‍💻 Embarking on a journey through the landscapes of eCommerce enchantments, Coupon Creations, Business and Service Site Sorcery, School Management System Mastery, Payment Gateway Prowess, Game Development Delights, and Diverse Web Adventures.
 
 <br>
