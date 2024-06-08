@@ -16,7 +16,7 @@
   
   <br>
   
--  🔭 Currently crafting digital wonders at [Modzi](Modzi.in)
+-  🔭 Currently crafting digital wonders at [Modzi](Modzi.in) ,[JST MAHASABHA](http://getyourdesigns.com/admin/login), [Wallepay](Modzi.in)
 -  💬 Delve into the realm of PHP project collaboration with me!
   <br>
 
