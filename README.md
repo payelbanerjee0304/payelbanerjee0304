@@ -16,7 +16,7 @@
   
   <br>
   
--  🔭 Currently crafting digital wonders at [Modzi](Modzi.in) ,[JST MAHASABHA](http://getyourdesigns.com/admin/login), [Wallepay](https://staging.brightwayportal.com/admin/tips-reports)
+-  🔭 Currently crafting digital wonders at <a href="http://modzi.in/admin/login">Modzi</a> ,[JST MAHASABHA](http://getyourdesigns.com/admin/login), [Wallepay](https://staging.brightwayportal.com/admin/tips-reports)
 -  💬 Delve into the realm of PHP project collaboration with me!
   <br>
 
