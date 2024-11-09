@@ -13,7 +13,6 @@
 - 👀 Enthralled by the Infinite Possibilities of the Web.
 - 📄 Enchanting the Digital World with Coding Magic.
 - 🌱 Journeying through the Depths of Backend Web Development.
-  
   <br>
   
 -  🔭 Currently crafting digital wonders at  <a href="https://form.perfectcreate.com/admin/login" target="_blank">Swetamber Terapanthi</a>
