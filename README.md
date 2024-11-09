@@ -17,7 +17,7 @@
   <br>
   
 -  🔭 Currently crafting digital wonders at  <a href="https://form.perfectcreate.com/admin/login" target="_blank">Swetamber Terapanthi</a>
-- <a href="http://modzi.in/admin/login" target="_blank">Modzi</a> ,<a href="https://staging.brightwayportal.com/login" target="_blank">Brightway</a> , <a href="https://perfectcreate.com/login" target="_blank">Jain Mahasabha</a>
+- Prior experience working on projects for <a href="http://modzi.in/admin/login" target="_blank">Modzi</a> ,<a href="https://staging.brightwayportal.com/login" target="_blank">Brightway</a> , <a href="https://perfectcreate.com/login" target="_blank">Jain Mahasabha</a>
 -  💬 Delve into the realm of PHP project collaboration with me!
   <br>
 
