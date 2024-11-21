@@ -17,7 +17,7 @@
   <br>
   
 -  🔭 Currently crafting digital wonders at  <a href="https://form.perfectcreate.com/admin/login" target="_blank">Swetamber Terapanthi</a>
-- 👀 Prior experience working on projects for <a href="http://modzi.in/admin/login" target="_blank">Modzi</a> ,<a href="https://staging.brightwayportal.com/login" target="_blank">Brightway</a> , <a href="https://perfectcreate.com/login" target="_blank">Jain Mahasabha</a><a href="https://cal-crm.com/login" target="_blank">Calgreens</a>
+- 👀 Prior experience working on projects for <a href="http://modzi.in/admin/login" target="_blank">Modzi</a> ,<a href="https://staging.brightwayportal.com/login" target="_blank">Brightway</a> , <a href="https://perfectcreate.com/login" target="_blank">Jain Mahasabha</a>, <a href="https://cal-crm.com/login" target="_blank">Calgreens</a>
 
   <br>
 
