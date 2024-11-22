@@ -40,7 +40,7 @@
 <h2 align="center"> 🖥️ My Resume: </h2>
 <p align="center">
 <a href="https://drive.google.com/file/d/1pdBG5fQFT1rToqp11f4uzSTBB6kphCMp/view?usp=sharing">
-    <img src="https://img.shields.io/badge/drive-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Resume" />
+    <img src="https://drive.google.com/file/d/1lqpBOVimxLFu3im1szEHA9GbZ5WXm3vc/view?usp=drive_link" alt="Resume" />
 </a>
 </p>
 <br>
