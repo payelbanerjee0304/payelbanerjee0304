@@ -39,7 +39,7 @@
 
 <h2 align="center"> 🖥️ My Resume: </h2>
 <p align="center">
-<a href="https://drive.google.com/file/d/13okc_pXMB8TyIXOKFFUQFFodAjR6jAzB/view?usp=drive_link">
+<a href="https://payelbanerjeefreelancingportfolio.vercel.app/cv/index.html">
     <img src="https://img.shields.io/badge/resume-282828?style=for-the-badge&logo=resume&logoColor=green" alt="Resume" />
 </a>
 </p>
