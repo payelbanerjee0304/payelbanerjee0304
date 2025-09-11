@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Payel+Banerjee+👩‍💼!;A+Passionate+Web+developer+from+India!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></h1>
+<h1>Payel Banerjee</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payelbanerjee0304&label=Profile%20views&color=0e75b6&style=flat" alt="payelbanerjee0304" /> </p>
 
