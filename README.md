@@ -1,4 +1,4 @@
-<div ><h1 align="center">Payel Banerjee</h1></div>
+<h1 align="center">Payel Banerjee</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payelbanerjee0304&label=Profile%20views&color=0e75b6&style=flat" alt="payelbanerjee0304" /> </p>
 
