@@ -108,11 +108,11 @@
 </a>
 </p>
 
-## 🔥 My Github Streak
 
-<p align="center">
-    <img title="My Github Streak Check" alt="payelbanerje's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&theme=black-ice&stroke=0000&background=060A0C0"/>
-</p>
+
+<!-- <p align="center"> -->
+    <!-- <img title="My Github Streak Check" alt="payelbanerje's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&theme=black-ice&stroke=0000&background=060A0C0"/> -->
+<!-- </p> -->
    
  ## 📊 My Github Stats
 
