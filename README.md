@@ -107,12 +107,6 @@
     <img src="https://img.shields.io/badge/Razorpay-0C2451.svg?style=for-the-badge&logo=Razorpay&logoColor=white" alt="Razorpay" />
 </a>
 </p>
-
-
-
-<!-- <p align="center"> -->
-    <!-- <img title="My Github Streak Check" alt="payelbanerje's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=payelbanerjee0304&theme=black-ice&stroke=0000&background=060A0C0"/> -->
-<!-- </p> -->
    
  ## 📊 My Github Stats
 
